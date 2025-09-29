@@ -3,3 +3,5 @@ This project implements a concurrent, multi-threaded networked game implemented 
 To win, they have collect tokens, answer questions and race against the clock. The project demonstrates core concepts of network programming, including TCP communication, I/O multiplexing, inter-process communication (IPC) via fork and shared memory, and advanced synchronization using threads and semaphores.
 
 The file "Documentazione Progetto.pdf" explains the technical detals of the implementation (in Italian).
+
+The project is meant to be compiled and executed on Linux.
