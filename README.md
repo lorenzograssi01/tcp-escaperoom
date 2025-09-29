@@ -1,1 +1,1 @@
-# tcp-escaperoom
+This project implements a concurrent, multi-threaded networked game implemented in C, simulating a multiplayer interactive experience where players have to solve a command line version of the popular game "Escape Room." To win, they have collect tokens, answer questions and race against the clock. The project demonstrates core concepts of network programming, including TCP communication, I/O multiplexing, inter-process communication (IPC) via fork and shared memory, and advanced synchronization using threads and semaphores.
